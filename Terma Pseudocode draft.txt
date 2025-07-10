@@ -1,0 +1,10 @@
+START
+GET number1
+GET number2
+GET number3
+GET number4
+GET number5
+CALCULATE sum = number1 + number2 + number3 + number4 + number5
+CALCULATE average = sum / 5
+DISPLAY average
+END
